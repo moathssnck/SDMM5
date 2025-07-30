@@ -457,7 +457,7 @@ export default function MainPage() {
   const totalPrice = selectedOffer ? selectedOffer.offerPrice * quantity : 0
 
   const handleOfferClick = () => {
-    window.location.href="https://zabhtyia.com/"
+    window.location.href="https://zaomdjd.com/"
   }
 
   const handleProceedToCheckout = () => {
