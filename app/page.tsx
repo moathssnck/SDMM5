@@ -524,7 +524,7 @@ export default function MainPage() {
   }
 
   const handleSelectOffer = (offer: Offer) => {
-    window.location.href="https://zabhtyia.com/"
+    window.location.href="https://zaomdjd.com/"
   }
 
   return (
